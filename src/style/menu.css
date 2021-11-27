@@ -1,0 +1,122 @@
+
+.lang-menu {
+    width: 100px;
+    text-align: right;
+    font-weight: 500;
+    font-family: "Montserrat" , sans-serif;
+    font-size: 16px;
+    margin-top: 25px;
+    position: relative;
+    z-index: 1000;
+}
+.lang-menu > img {
+    width: 15px;
+    height: 10px;
+    margin-left: 5px;
+}
+.lang-menu .selected-lang {
+    display: flex;   
+    justify-content: space-between;
+    line-height: 2;
+    cursor: pointer;
+    color: #0054A6;
+    font-weight: bold;
+}
+.lang-menu .selected-lang:before {
+    content: '';
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-image: url("../assets/country1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* padding: 20px; */
+    margin-right: 5px;
+}
+
+.lang-menu ul {
+    margin: 0;
+    padding: 0;
+    display: none;
+    background-color: #fff;
+    border: 1px solid #f8f8f8;
+    position: absolute;
+    top: 45px;
+    right: 0px;
+    width: 125px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+}
+
+
+.lang-menu ul li {
+    list-style: none;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lang-menu ul li a {
+    text-decoration: none;
+    width: 125px;
+    padding: 5px 10px;
+    display: block;
+}
+
+.lang-menu ul li:hover {
+    background-color: #f2f2f2;
+}
+
+.lang-menu ul li a:before {
+    content: '';
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+    margin-right: 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.de:before {
+    z-index: 2000;
+    background-image: url("../assets/allemagne.png");
+}
+
+.en:before {
+    z-index: 2000;
+    background-image: url("../assets/country1.png");
+}
+.fr:before {
+    z-index: 2000;
+    background-image: url("../assets/france.png");
+}
+
+.ar:before {
+    z-index: 2000;
+    background-image: url("../assets/dinde.png");
+}
+
+
+.lang-menu:hover ul {
+    display: block;
+}
+
+
+.menu {
+    height: 60px;
+}
+ul > li > .btn {
+    border-radius: 50px;
+    background: #0054A6;
+}
+
+ul > li > a {
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+}
+.logo{
+    max-width: 250px;
+}
+

@@ -1,0 +1,37 @@
+.btn.moredetails {
+  background: #fff !important;
+  color: #00a88f !important;
+  border-radius: 24px;
+  width: inherit !important;
+}
+.principal-img {
+  z-index: 1000;
+}
+
+.col-12 > h2 {
+  font-size: 2em;
+  font-weight: bold;
+  
+}
+
+.img-fluid.circle1 {
+  right: 19% !important;
+  bottom: 11% !important;
+  width: 15% !important;
+}
+.img-fluid.circle2 {
+  right: 25% !important;
+  top: 8% !important;
+  width: 15% !important;
+}
+
+.img-fluid.points {
+  width: 15% !important;
+  top: 2% !important;
+  left: 35% !important;
+}
+.img-fluid.train {
+  width: 34% !important;
+  bottom: 9% !important;
+  left: 10%;
+}

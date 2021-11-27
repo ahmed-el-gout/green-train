@@ -1,0 +1,61 @@
+
+.carousel-indicator {
+    background-color: #0054A6 !important;
+    height: 20px !important;
+    width: 20px !important;
+    z-index: 1000 !important;
+    margin: 0 5px;
+    cursor: pointer !important;
+    border-radius: 50%; 
+}
+
+/* zdtha 3la 9bl slide nhide les card f small */
+@media (max-width: 576px) { 
+  /* .carousel-indicators {
+    margin-bottom: -22px !important;
+  } */
+  .card.shadow-sm{
+    width: 74% !important;
+  }  
+}
+@media (min-width: 768px) { 
+  .card.shadow-sm{
+    width: 40% !important;
+  } 
+}
+  
+@media (min-width: 992px) { 
+  .card.shadow-sm{
+    width: 25% !important;
+  }
+}
+
+
+.card {
+  border-radius: 10% !important;
+  font-size: 14px;
+  overflow: hidden;
+}
+
+
+h6 {
+  font-size: 14px !important;
+  font-weight: bold !important;
+  text-align: unset !important;
+  color: #646464 !important;
+}
+
+button.btn{
+  background: #0054A6;
+}
+.btn.view-all{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left:75px !important ;
+  padding-right: 75px !important;
+  border-radius: 24px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+

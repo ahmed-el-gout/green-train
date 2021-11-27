@@ -1,0 +1,79 @@
+.main {
+  background: linear-gradient(#c7ece7, #ffffff);
+}
+
+
+/* add image to background  */
+.right-part {
+  background: linear-gradient(#002a53, #00a88f);
+  /* background-image: url("../assets/nick-page.png") no-repeat; */
+  border-radius: 5%;
+}
+
+.right-part > div {
+  min-height: 440px;
+}
+
+.right-part > div > p:nth-child(1){
+  font-family: "Montserrat" , sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.right-part > div > p:nth-child(2){
+  line-height: 43px;
+  font-family: "Montserrat" , sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.right-part > div > button {
+  border-radius: 20px;
+  background: #00A88F;
+  border: 2px solid #ffffff;
+}
+
+.left-part {
+  min-height: 440px;
+  border-radius: 5%;
+  z-index: 1000;
+  font-size: 14px;
+}
+
+.time-tickets{
+  background: #0054A6 !important;
+}
+
+.blue{
+  background: #0054A6;
+}
+
+.cloc{
+  width: 24px;
+  height: 24px;
+  margin: 2px;
+}
+
+@media (min-width: 992px) { 
+  .left-part{
+    margin-right: -40px;
+  }
+}
+
+input[type=checkbox]:checked{
+  background: #00A88F;
+}
+
+.form-control:valid {
+  background: #EEEEEE !important;
+}
+
+.circle{
+  background: #00A88F;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-bottom: -20px;
+} 
+

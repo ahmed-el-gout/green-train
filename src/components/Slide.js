@@ -42,9 +42,9 @@ function slide() {
                               <h6 className="mb-0 pt-3">London to Liverpool</h6>
                               <p>from $75.08</p>
                             </div>
-                            <div className="col-4  d-flex my-auto">
-                                <button type="button" className="btn btn-primary ml-0">
-                                   <span className="badge badge-light">4.0</span>
+                            <div className="col-4   my-auto mx-auto  ">
+                                <button type="button" className="btn btn-primary ml-0 ">
+                                   <span className="badge badge-light mx-auto ">4.0</span>
                                 </button>
                             </div>
                           </div>

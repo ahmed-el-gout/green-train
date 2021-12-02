@@ -1,8 +1,9 @@
+
 .btn.moredetails {
   background: #fff !important;
   color: #00a88f !important;
   border-radius: 24px;
-  width: inherit !important;
+  width: 70% !important;
 }
 .principal-img {
   z-index: 1000;

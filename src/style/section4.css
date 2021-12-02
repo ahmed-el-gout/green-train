@@ -1,0 +1,25 @@
+.container-fluid > img {
+  margin-left: -12px;
+}
+
+.badge {
+  background: #0054a6 !important;
+  right: 35% !important;
+  bottom: 6% !important;
+}
+
+.btn.moredetails{
+    background:#fff !important;
+    width: 70% !important;
+    color: black !important;
+}
+
+h2{
+    font-size: 26px !important;
+    font-weight: bold !important;
+}
+hr {
+  height: 3px !important;
+  width: 20% !important;
+  background: #0054a6 !important;
+}

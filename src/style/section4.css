@@ -4,8 +4,9 @@
 
 .badge {
   background: #0054a6 !important;
+  width: 30px;
   right: 35% !important;
-  bottom: 6% !important;
+  bottom: 10% !important;
 }
 
 .btn.moredetails{

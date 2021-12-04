@@ -43,9 +43,9 @@ function slide() {
                               <p>from $75.08</p>
                             </div>
                             <div className="col-4   my-auto mx-auto  ">
-                                <button type="button" className="btn btn-primary ml-0 ">
-                                   <span className="badge badge-light mx-auto ">4.0</span>
-                                </button>
+                                {/* <button type="button" className="btn btn-primary w-100  "> */}
+                                   <span className="badge badge-light  p-3 w-100 ">4.0</span>
+                                {/* </button> */}
                             </div>
                           </div>
                         </div>
@@ -62,9 +62,9 @@ function slide() {
                               <p>from $75.08</p>
                             </div>
                             <div className="col-4  d-flex my-auto">
-                                <button type="button" className="btn btn-primary ml-0">
-                                   <span className="badge badge-light">7.0</span>
-                                </button>
+                                {/* <button type="button" className="btn btn-primary w-75"> */}
+                                   <span className="badge badge-light  p-3 w-100 ">7.0</span>
+                                {/* </button> */}
                             </div>
                           </div>
                         </div>
@@ -81,9 +81,9 @@ function slide() {
                               <p>from $75.08</p>
                             </div>
                             <div className="col-4  d-flex my-auto">
-                                <button type="button" className="btn btn-primary ml-0">
-                                   <span className="badge badge-light">5.0</span>
-                                </button>
+                                {/* <button type="button" className="btn btn-primary w-75"> */}
+                                   <span className="badge badge-light  p-3 w-100 ">5.0</span>
+                                {/* </button> */}
                             </div>
                           </div>
                         </div>
@@ -110,9 +110,9 @@ function slide() {
                               <p>from $75.08</p>
                             </div>
                             <div className="col-4  d-flex my-auto">
-                                <button type="button" className="btn btn-primary ml-0">
-                                   <span className="badge badge-light">5.0</span>
-                                </button>
+                                {/* <button type="button" className="btn btn-primary w-75"> */}
+                                   <span className="badge badge-light  p-3 w-100 ">5.0</span>
+                                {/* </button> */}
                             </div>
                           </div>
                         </div>
@@ -129,9 +129,9 @@ function slide() {
                               <p>from $75.08</p>
                             </div>
                             <div className="col-4  d-flex my-auto">
-                                <button type="button" className="btn btn-primary ml-0">
-                                   <span className="badge badge-light">7.0</span>
-                                </button>
+                                {/* <button type="button" className="btn btn-primary w-75"> */}
+                                   <span className="badge badge-light  p-3 w-100 ">7.0</span>
+                                {/* </button> */}
                             </div>
                           </div>
                         </div>
@@ -148,9 +148,9 @@ function slide() {
                               <p>from $75.08</p>
                             </div>
                             <div className="col-4  d-flex my-auto">
-                                <button type="button" className="btn btn-primary ml-0">
-                                   <span className="badge badge-light">4.0</span>
-                                </button>
+                                {/* <button type="button" className="btn btn-primary w-75"> */}
+                                   <span className="badge badge-light  p-3 w-100 ">4.0</span>
+                                {/* </button> */}
                             </div>
                           </div>
                         </div>
@@ -179,9 +179,9 @@ function slide() {
                                   <p>from $75.08</p>
                                 </div>
                                 <div className="col-4  d-flex my-auto">
-                                  <button type="button" className="btn btn-primary ml-0">
-                                    <span className="badge badge-light">4.0</span>
-                                  </button>
+                                  {/* <button type="button" className="btn btn-primary w-75"> */}
+                                    <span className="badge badge-light  p-3 w-100 ">4.0</span>
+                                  {/* </button> */}
                               </div>
                             </div>
                           </div>
@@ -198,9 +198,9 @@ function slide() {
                               <p>from $75.08</p>
                             </div>
                             <div className="col-4  d-flex my-auto">
-                                <button type="button" className="btn btn-primary ml-0">
-                                   <span className="badge badge-light">4.0</span>
-                                </button>
+                                {/* <button type="button" className="btn btn-primary w-75"> */}
+                                   <span className="badge badge-light  p-3 w-100 ">4.0</span>
+                                {/* </button> */}
                             </div>
                           </div>
                         </div>
@@ -217,9 +217,9 @@ function slide() {
                               <p>from $75.08</p>
                             </div>
                             <div className="col-4  d-flex my-auto">
-                                <button type="button" className="btn btn-primary ml-0">
-                                   <span className="badge badge-light">4.0</span>
-                                </button>
+                                {/* <button type="button" className="btn btn-primary w-75"> */}
+                                   <span className="badge badge-light  p-3 w-100 ">4.0</span>
+                                {/* </button> */}
                             </div>
                           </div>
                         </div>
